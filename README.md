@@ -1,4 +1,4 @@
 # scraping
 
-use Python3 or higher
-intsall the dependencies
+# use Python3 or higher
+# intsall the dependencies
